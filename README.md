@@ -8,4 +8,5 @@ This dataset is based on material published online at https://www.historyofparli
   <li>1640-1659: absent, but coming soon</li>
   <li>1660-1832: included</li>
 </ul>
-Returns for Boroughs and Universities are linked to an as-yet unpublished GIS.
+
+Returns for Boroughs and Universities, and the individual members of Welsh borough groupings, are linked to an as-yet unpublished GIS.
