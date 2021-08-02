@@ -1,0 +1,33 @@
+{
+  "title": "Parliamentary Returns, 1386-1832",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://www.historyofparliamentonline.org/",
+      "relation": "isDerivedFrom",
+      "resource_type": "publication-book"
+    }
+  ],
+  "keywords": [
+    "borough",
+    "parliament",
+    "GIS",
+    "historical",
+    "england",
+    "wales",
+    "medieval",
+    "early modern",
+    "map"
+  ],
+  "creators": [
+    {
+      "orcid": "0000-0003-3060-0181",
+      "affiliation": "Viae Regiae",
+      "name": "Gadd, Stephen James"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "description": ""
+}
