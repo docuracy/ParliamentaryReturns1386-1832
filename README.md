@@ -9,4 +9,6 @@ This dataset is based on material published online at https://www.historyofparli
   <li>1660-1832: included</li>
 </ul>
 
-Returns for Boroughs and Universities, and the individual members of Welsh borough groupings, are linked with URIs to geolocated places an as-yet unpublished GIS.
+Returns for Boroughs and Universities, and the individual members of Welsh borough groupings, are linked with URIs to places geolocated in an as-yet unpublished GIS.
+
+Each record in the dataset comprises the date of the return, the names of the candidate (if known) and constituency, the result (win, lose, or void), and the type of constituency (Borough, Linked Borough, University, or County). For Borough and University returns, the county and a geolocating URI are also given.
