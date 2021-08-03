@@ -1,4 +1,11 @@
 {
+  "contributors": [
+    {
+      "affiliation": "The History of Parliament Trust, London",
+      "type": "DataCollector",
+      "name": "Various"
+    }
+  ],
   "title": "Parliamentary Returns, 1386-1832",
   "language": "eng",
   "related_identifiers": [
