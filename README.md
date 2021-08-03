@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/392024779.svg)](https://zenodo.org/badge/latestdoi/392024779)
 # Parliamentary Returns, 1386-1832
 This dataset is based on material published online at https://www.historyofparliamentonline.org/ for the History of Parliament Trust, which should be consulted in case of any query. Later versions will reflect the Trust's ongoing work.  
 <ul>
